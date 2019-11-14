@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wp-customize-cropped-image-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131455933040000000" remote="131455933040000000" Dst="1" />
+<file name="class-wp-customize-color-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131681094200000000" remote="131681094200000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-auto-add-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131516473690000000" remote="131516473690000000" Dst="1" />
+<file name="class-wp-customize-theme-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="132049172920000000" remote="132049172920000000" Dst="1" />
+<file name="class-wp-customize-upload-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-background-position-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-selective-refresh.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131664836110000000" remote="131664836110000000" Dst="1" />
+<file name="class-wp-customize-background-image-setting.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="130901880850000000" remote="130901880850000000" Dst="1" />
+<file name="class-wp-widget-area-customize-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131455933040000000" remote="131455933040000000" Dst="1" />
+<file name="class-wp-customize-custom-css-setting.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131789478960000000" remote="131789478960000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-item-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131957932710000000" remote="131957932710000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131957932710000000" remote="131957932710000000" Dst="1" />
+<file name="class-wp-customize-header-image-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131920052880000000" remote="131920052880000000" Dst="1" />
+<file name="class-wp-customize-header-image-setting.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-locations-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131913983300000000" remote="131913983300000000" Dst="1" />
+<file name="class-wp-customize-date-time-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131913986890000000" remote="131913986890000000" Dst="1" />
+<file name="class-wp-customize-themes-panel.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131518332540000000" remote="131518332540000000" Dst="1" />
+<file name="class-wp-customize-partial.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-background-image-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131789478960000000" remote="131789478960000000" Dst="1" />
+<file name="class-wp-widget-form-customize-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131996080120000000" remote="131996080120000000" Dst="1" />
+<file name="class-wp-customize-image-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-nav-menus-panel.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131789478960000000" remote="131789478960000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-setting.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131789478960000000" remote="131789478960000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-location-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131558837890000000" remote="131558837890000000" Dst="1" />
+<file name="class-wp-customize-site-icon-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131962817920000000" remote="131962817920000000" Dst="1" />
+<file name="class-wp-customize-code-editor-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-filter-setting.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131455933040000000" remote="131455933040000000" Dst="1" />
+<file name="class-wp-customize-sidebar-section.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+<file name="class-wp-customize-media-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131962817920000000" remote="131962817920000000" Dst="1" />
+<file name="class-wp-customize-themes-section.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131801097840000000" remote="131801097840000000" Dst="1" />
+<file name="class-wp-customize-new-menu-section.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131894896750000000" remote="131894896750000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-name-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131516473690000000" remote="131516473690000000" Dst="1" />
+<file name="class-wp-customize-new-menu-control.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131894896750000000" remote="131894896750000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-item-setting.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131789478960000000" remote="131789478960000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-section.php" server="34.219.18.77//opt/bitnami/apps/wordpress/htdocs/" local="131565570600000000" remote="131565570600000000" Dst="1" />
+</dwsync>
